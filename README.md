@@ -5,7 +5,7 @@ Physics-Informed Neural Network (PINN) framework for inverting moisture diffusiv
 
 This repository contains the code accompanying the paper:
 
-> **DETERMINING MOISTURE-DEPENDENT DIFFUSIVITY IN EARLY-AGE CEMENT PASTE: A PINN-BASED INVERSION FROM SPARSE X-RAY RADIOGRAPHS**
+> **Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cementitious Pastes from Sparse X-ray Radiographs**
 > Sunav Raj Dahal, Hossein Kabir, Alexandre M. Tartakovskya, and Nishant Garg
 > *Journal Name*, [year]. DOI: [to be added]
 
@@ -53,8 +53,8 @@ These are the direct inputs to the PINN training scripts.
 ### Raw radiograph data to be used with X_ray_data_prprodessing and regression data are hosted in separately (Zenodo)
 
 > **[Dataset title]**
-> Sunav Dahal et al.
-> Zenodo. DOI: [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+> Sunav R. Dahal et al.
+> Zenodo. DOI: [https://doi.org/10.5281/zenodo.20748871](https://doi.org/10.5281/zenodo.20748871)
 
 Download and place the files in the `Regression/` folder or any location of your chose. Be sure to update the file links in the notebooks or python scripts as required. 
 
@@ -118,8 +118,8 @@ If you use this code, please cite:
 
 ```bibtex
 @article{______________________________,
-  title   = {[______________________________]},
-  author  = {________________________________},
+  title   = {Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cementitious Pastes from Sparse X-ray Radiographs},
+  author  = {Sunav Raj Dahal, Hossein Kabir, Alexandre M. Tartakovskya, and Nishant Garg},
   journal = {______________________},
   year    = {_______},
   doi     = {}

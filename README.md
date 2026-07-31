@@ -5,7 +5,7 @@ Physics-Informed Neural Network (PINN) framework for inverting moisture diffusiv
 
 This repository contains the code accompanying the paper:
 
-> **Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cementitious Pastes from Sparse X-ray Radiographs**
+> **Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cement Paste from Sparse X-ray Radiographs**
 > Sunav Raj Dahal, Hossein Kabir, Alexandre M. Tartakovskya, and Nishant Garg
 > *Journal Name*, [year]. DOI: [to be added]
 
@@ -118,7 +118,7 @@ If you use this code, please cite:
 
 ```bibtex
 @article{______________________________,
-  title   = {Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cementitious Pastes from Sparse X-ray Radiographs},
+  title   = {Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cement Paste from Sparse X-ray Radiographs},
   author  = {Sunav Raj Dahal, Hossein Kabir, Alexandre M. Tartakovskya, and Nishant Garg},
   journal = {______________________},
   year    = {_______},

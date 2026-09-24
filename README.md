@@ -53,7 +53,7 @@ These are the direct inputs to the PINN training scripts.
 ### Raw radiograph data to be used with X_ray_data_prprodessing and regression data are hosted in separately (Zenodo)
 
 > **[Dataset title]**
-> Sunav R. Dahal et al.
+> anonimized for review
 > Zenodo. DOI: [https://doi.org/10.5281/zenodo.20748871](https://doi.org/10.5281/zenodo.20748871)
 
 Download and place the files in the `Regression/` folder or any location of your chose. Be sure to update the file links in the notebooks or python scripts as required. 
@@ -119,7 +119,7 @@ If you use this code, please cite:
 ```bibtex
 @article{______________________________,
   title   = {Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cement Paste from Sparse X-ray Radiographs},
-  author  = {Sunav Raj Dahal, Hossein Kabir, Alexandre M. Tartakovskya, and Nishant Garg},
+  author  = {},
   journal = {______________________},
   year    = {_______},
   doi     = {}
@@ -130,7 +130,7 @@ If you use this code, please cite:
 
 MIT License
 
-Copyright (c) 2026 Sunav Raj Dahal
+Copyright (c) 2026 author anonimized
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -150,8 +150,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contact
 
-Sunav Raj Dahal — PhD Student, Civil and Environmental Engineering, The Grainger College of Engineering, University of Illinois Urbana-Champaign
-GitHub: [sunavrd2](https://github.com/sunavrd2)
-LinkedIn: [in/sunavd](https://linkedin.com/in/sunavd)

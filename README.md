@@ -6,7 +6,7 @@ Physics-Informed Neural Network (PINN) framework for inverting moisture diffusiv
 This repository contains the code accompanying the paper:
 
 > **Physics-Informed Discovery of Nonlinear Moisture Diffusivity in Cement Paste from Sparse X-ray Radiographs**
-> Sunav Raj Dahal, Hossein Kabir, Alexandre M. Tartakovskya, and Nishant Garg
+> author names anonimized for review
 > *Journal Name*, [year]. DOI: [to be added]
 
 The framework infers the nonlinear diffusivity function D(θ) from sparse, noisy moisture content profiles measured at discrete times obtained by processing in-situ X-ray radiographs collected during capillary absorption experiment. Three saturation conditions in early-age cement paste specimens are studied: Low Sorptivity (LS), Medium Sorptivity (MS), and High Sorptivity (HS).
